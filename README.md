@@ -5,7 +5,7 @@ This project brings together machine thinking and human feeling through Gamma pr
 ChatGPT Work, Gamma <p>
 ## ⌨️ Presentation Prompts
 ### 🤵🏻 Alan Turing Presentation Prompt
-<details open>
+<details>
 <summary><strong>View the Turing Presentation Prompt</strong></summary><p></p>
 Create a 10-slide presentation explaining the main ideas in Alan Turing’s “Computing Machinery and Intelligence” for people who have not read the paper. Give viewers a clear understanding of his central question, key arguments, and conclusions.
 
@@ -22,7 +22,7 @@ Reflect the logical, inquisitive, and precise nature of Turing’s writing. Use 
 </details>
 
 ### 💃🏾 Maya Angelou Presentation Prompt
-<details open>
+<details>
 <summary><strong>View the Angelou Presentation Prompt</strong></summary><p></p>
 
 Create a 2-slide presentation explaining the main ideas in Maya Angelou’s “When I Think About Myself” for people who have not read the poem. Give viewers a clear understanding of its central themes, human experiences, and emotions.
