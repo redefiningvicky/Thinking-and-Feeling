@@ -39,9 +39,9 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 </details>
 
-## 🪙 Credits <br>
+## 🪙 Gamma Credits <br>
 <b>Turing:</b> 113 <br>
-<b>Angelou:</b> ? <p>
+<b>Angelou:</b> ~39 <p>
 ## 👩🏽‍🏫 Presentation <br>
 <img src="" width="900" />
 <img src="" width="900" />
