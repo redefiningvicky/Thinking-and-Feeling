@@ -86,8 +86,15 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 </details>
 
 ## 🪙 Gamma Credit Usage <br>
+<details>
+<summary>Show Usage</summary>
+<p>
+  
 <b>Turing:</b> 113 <br>
 <b>Angelou:</b> ~39 <p>
+
+</details>
+
 ## 👩🏽‍🏫 Presentation <br>
 ### Alan Turing Presentation
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S1.png" width="650" />
