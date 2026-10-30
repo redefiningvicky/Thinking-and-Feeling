@@ -9,27 +9,44 @@ This project brings together machine thinking and human feeling through Gamma pr
 
 <sub>Click the image above to watch the video.</sub> <p>
 
+
+<details>
+<summary>Read Poem</summary>
+
+
+<p>
+
 When I think about myself, <br>
 I almost laugh myself to death, <br>
 My life has been one great big joke, <br>
 A dance that's walked <br>
 A song that's spoke, <br>
 I laugh so hard I almost choke <br>
-When I think about myself. <p>
+When I think about myself.
+</p>
+
+<p>
 Sixty years in these folks' world <br>
 The child I works for calls me girl <br>
 I say 'Yes ma'am' for working's sake. <br>
 Too proud to bend <br>
 Too poor to break, <br>
 I laugh until my stomach ache, <br>
-When I think about myself. <p>
+When I think about myself.
+</p>
+
+<p>
 My folks can make me split my side, <br>
 I laughed so hard I nearly died, <br>
 The tales they tell, sound just like lying, <br>
 They grow the fruit, <br>
 But eat the rind, <br>
 I laugh until I start to crying, <br>
-When I think about my folks. <br>
+When I think about my folks.
+</p>
+
+</details>
+
 ## 🛠️ Tools <br>
 ChatGPT Work, Gamma <p>
 ## ⌨️ Presentation Prompts
