@@ -112,4 +112,4 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S10.png" width="600" />
 
 ### Maya Angelou Presentation
-<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Maya_Angelou/Maya_Angelou.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Maya_Angelou/Maya_Angelou.png" width="600" />
