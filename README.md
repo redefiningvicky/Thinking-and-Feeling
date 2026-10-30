@@ -85,6 +85,9 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 </details>
 
+### Turing vs. Angelou
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/28074769bd59c03b01c1f5ad1737a78e912fad45/Turing_vs_Angelou.png" width="850" />
+
 ## 🪙 Gamma Credit Usage <br>
 <details>
 <summary>Show Usage</summary>
@@ -97,7 +100,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 ## 👩🏽‍🏫 Presentation <br>
 ### Alan Turing Presentation
-<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S1.png" width="650" />
+
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S2.png" width="650" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S3.png" width="650" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S4.png" width="650" />
