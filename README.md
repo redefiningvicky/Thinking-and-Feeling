@@ -49,7 +49,7 @@ When I think about my folks.
 
 ## 🛠️ Tools <br>
 ChatGPT Work, Gamma <p>
-## ⌨️ Presentation Prompts
+## ⌨️ Presentation Prompts (ChatGPT)
 ### 🤵🏻 Alan Turing Presentation Prompt
 <details>
 <summary><strong>View the Turing Presentation Prompt</strong></summary><p></p>
@@ -98,7 +98,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 </details>
 
-## 👩🏽‍🏫 Presentation <br>
+## 👩🏽‍🏫 Presentation Slides (Gamma) <br>
 ### Alan Turing Presentation
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/551cb794ebd7ab402dfae576a23e9167b49943ae/Alan_Turing/Alan_Turing_S1.png" width="600" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S2.png" width="600" />
