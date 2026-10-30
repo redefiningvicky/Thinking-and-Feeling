@@ -115,7 +115,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Maya_Angelou/Maya_Angelou.png" width="600" />
 
 ## 💧 Reflection
-<b> Can machines feel? </b> <br>
+<b> <i> Can machines feel? </b> </i> <br>
 <i> Can machines cry? </i> <br>
 <i> Can machines have empathy and compassion? </i> <br>
 <i> Can machines understand the human experience? </i>
