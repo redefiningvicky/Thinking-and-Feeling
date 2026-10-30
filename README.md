@@ -3,7 +3,7 @@
 This project brings together machine thinking and human feeling through Gamma presentations inspired by Alan Turing’s “Computing Machinery and Intelligence” and Maya Angelou’s “When I Think About Myself.” Both presentations use prompts grounded in shared standards for accuracy and historically informed visuals, with adjustments suited to each source. Together, they explore how AI-assisted visual storytelling can communicate scientific arguments and poetic emotion. <p>
 ## 🛠️ Tools <br>
 ChatGPT Work, Gamma <p>
-## ⌨️ Prompts
+## ⌨️ Presentation Prompts
 ### 🤵🏻 Alan Turing Presentation Prompt
 <details open>
 <summary><strong>View the Turing Presentation Prompt</strong></summary><p></p>
@@ -40,7 +40,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 </details>
 
 ## 🪙 Credits <br>
-<b>Turing:</b> 113 <p>
+<b>Turing:</b> 113 <br>
 <b>Angelou:</b> 56 <p>
 ## 👩🏽‍🏫 Presentation <br>
 <img src="" width="900" />
