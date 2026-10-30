@@ -117,4 +117,4 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 ## 💧 Reflection
 Can machines feel?
 ### Turing Meets Angelou Roadmap (ChatGPT)
-<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/a733753e66cc091acc6ad8c070b81fab27cb20a9/Turing_Meets_Angelou/Turing_Meets_Angelou_Roadmap.png" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/a733753e66cc091acc6ad8c070b81fab27cb20a9/Turing_Meets_Angelou/Turing_Meets_Angelou_Roadmap.png" width="900" />
