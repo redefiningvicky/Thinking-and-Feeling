@@ -1,4 +1,4 @@
-# 👥 Thinking and Feeling: Turing Meets Angelou
+# 👥 Thinking & Feeling: Turing Meets Angelou
 ## 🎯 Objective <br>
 This project brings together machine thinking and human feeling through Gamma presentations inspired by Alan Turing’s “Computing Machinery and Intelligence” and Maya Angelou’s “When I Think About Myself.” Both presentations use prompts grounded in shared standards with adjustments suited to each source. Together, they explore how AI-assisted visual storytelling can communicate scientific arguments and poetic emotion. <p>
 ## 🎬 Inspiration <br>
