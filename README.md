@@ -73,7 +73,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 <b>Turing:</b> 113 <br>
 <b>Angelou:</b> ~39 <p>
 ## 👩🏽‍🏫 Presentation <br>
-### Alan Turing
+### Alan Turing Presentation
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S1.png" width="650" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S2.png" width="650" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S3.png" width="650" />
@@ -84,5 +84,6 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S8.png" width="650" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S9.png" width="650" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S10.png" width="650" />
-### Maya Angelou
+
+### Maya Angelou Presentation
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Maya_Angelou/Maya_Angelou.png" width="650" />
