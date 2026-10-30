@@ -25,7 +25,7 @@ Reflect the logical, inquisitive, and precise nature of Turing’s writing. Use 
 <details>
 <summary><strong>View the Angelou Presentation Prompt</strong></summary><p></p>
 
-Create a 2-slide presentation explaining the main ideas in Maya Angelou’s “When I Think About Myself” for people who have not read the poem. Give viewers a clear understanding of its central themes, human experiences, and emotions.
+Create a 1-slide presentation explaining the main ideas in Maya Angelou’s “When I Think About Myself” for people who have not read the poem. Give viewers a clear understanding of its central themes, human experiences, and emotions.
 
 Use the provided poem as the primary source. Build a clear narrative from the speaker’s opening reflections to her experiences and feelings, and her use of laughter in response to pain. Define unfamiliar terms in plain language without oversimplifying her ideas. End with a concise takeaway that accurately reflects the poem.
 
@@ -41,7 +41,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 ## 🪙 Credits <br>
 <b>Turing:</b> 113 <br>
-<b>Angelou:</b> 56 <p>
+<b>Angelou:</b> ? <p>
 ## 👩🏽‍🏫 Presentation <br>
 <img src="" width="900" />
 <img src="" width="900" />
