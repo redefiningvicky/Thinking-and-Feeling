@@ -9,7 +9,6 @@ This project brings together machine thinking and human feeling through Gamma pr
 
 <sub>Click the image above to watch the video.</sub> <p>
 
-### When I Think About Myself
 When I think about myself, <br>
 I almost laugh myself to death, <br>
 My life has been one great big joke, <br>
