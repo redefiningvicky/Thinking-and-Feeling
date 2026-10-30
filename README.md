@@ -86,7 +86,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 </details>
 
 ### Turing vs. Angelou
-<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/28074769bd59c03b01c1f5ad1737a78e912fad45/Turing_vs_Angelou.png" width="950" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/28074769bd59c03b01c1f5ad1737a78e912fad45/Turing_vs_Angelou.png" width="900" />
 
 ## 🪙 Gamma Credit Usage <br>
 <details>
