@@ -85,7 +85,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 </details>
 
-### Turing vs. Angelou
+### Turing Meets Angelou Chart (ChatGPT)
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/28074769bd59c03b01c1f5ad1737a78e912fad45/Turing_vs_Angelou.png" width="900" />
 
 ## 🪙 Gamma Credit Usage <br>
@@ -116,3 +116,5 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 ## 💧 Reflection
 Can machines feel?
+### Turing Meets Angelou Roadmap (ChatGPT)
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/a733753e66cc091acc6ad8c070b81fab27cb20a9/Turing_Meets_Angelou/Turing_Meets_Angelou_Roadmap.png" width="900" />
