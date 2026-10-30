@@ -39,7 +39,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 </details>
 
-## 🪙 Gamma Credits <br>
+## 🪙 Gamma Credit Usage <br>
 <b>Turing:</b> 113 <br>
 <b>Angelou:</b> ~39 <p>
 ## 👩🏽‍🏫 Presentation <br>
