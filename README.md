@@ -1,6 +1,36 @@
 # 👥 Thinking and Feeling: Turing Meets Angelou
 ## 🎯 Objective <br>
 This project brings together machine thinking and human feeling through Gamma presentations inspired by Alan Turing’s “Computing Machinery and Intelligence” and Maya Angelou’s “When I Think About Myself.” Both presentations use prompts grounded in shared standards for accuracy and historically informed visuals, with adjustments suited to each source. Together, they explore how AI-assisted visual storytelling can communicate scientific arguments and poetic emotion. <p>
+## 🎬 Inspiration <br>
+### Maya Angelou's When I Think About Myself
+<a href="https://youtu.be/k9ywTJvBwTc">
+  <img src="https://img.youtube.com/vi/k9ywTJvBwTc/hqdefault.jpg" width="65%" alt="Watch Inspiration Video">
+</a>
+
+<sub>Click the image above to watch the video.</sub> <p>
+
+### When I Think About Myself
+When I think about myself, <br>
+I almost laugh myself to death, <br>
+My life has been one great big joke, <br>
+A dance that's walked <br>
+A song that's spoke, <br>
+I laugh so hard I almost choke <br>
+When I think about myself. <p>
+Sixty years in these folks' world <br>
+The child I works for calls me girl <br>
+I say 'Yes ma'am' for working's sake. <br>
+Too proud to bend <br>
+Too poor to break, <br>
+I laugh until my stomach ache, <br>
+When I think about myself. <p>
+My folks can make me split my side, <br>
+I laughed so hard I nearly died, <br>
+The tales they tell, sound just like lying, <br>
+They grow the fruit, <br>
+But eat the rind, <br>
+I laugh until I start to crying, <br>
+When I think about my folks. <br>
 ## 🛠️ Tools <br>
 ChatGPT Work, Gamma <p>
 ## ⌨️ Presentation Prompts
@@ -43,6 +73,16 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 <b>Turing:</b> 113 <br>
 <b>Angelou:</b> ~39 <p>
 ## 👩🏽‍🏫 Presentation <br>
-<img src="" width="900" />
-<img src="" width="900" />
-<img src="" width="900" />
+### Alan Turing
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S1.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S2.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S3.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S4.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S5.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S6.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S7.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S8.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S9.png" width="650" />
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S10.png" width="650" />
+### Maya Angelou
+<img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Maya_Angelou/Maya_Angelou.png" width="650" />
