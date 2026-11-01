@@ -2,7 +2,7 @@
 ## 🎯 Objective <br>
 This project brings together machine thinking and human feeling through Gamma presentations inspired by Alan Turing’s “Computing Machinery and Intelligence” and Maya Angelou’s “When I Think About Myself.” Both presentations use prompts grounded in shared standards with adjustments suited to each source. Together, they explore how AI-assisted visual storytelling can communicate scientific arguments and poetic emotion. <p>
 ## 🎬 Inspiration <br>
-## Alan Turing's Computing Machinery and Intelligence
+### Alan Turing's Computing Machinery and Intelligence
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/9076a94382f01c45becefcee5f2927c396175c77/Alan_Turing/Alan_Turing_Profile.jpg" width="325" />
 
 ### Maya Angelou's When I Think About Myself
@@ -104,6 +104,10 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 ## 👩🏽‍🏫 Presentation Slides (Gamma) <br>
 ### Alan Turing Presentation
+This project is a fully functional presentation available at the following links: [View Gamma](https://gamma.app/docs/1hzrkll7ycptn8x), [View PDF](https://github.com/redefiningvicky/Thinking-and-Feeling/blob/f20e8a979a6d657b5d86ef9adae674185f5f4e80/Alan_Turing/Alan_Turing.pdf) <p>
+### Maya Angelou Presentation
+This project is a fully functional presentation available at the following links: [View Gamma](https://gamma.app/docs/yxf3rj0ovan69kn), [View PDF](https://github.com/redefiningvicky/Thinking-and-Feeling/blob/f20e8a979a6d657b5d86ef9adae674185f5f4e80/Maya_Angelou/Maya_Angelou.pdf) <p>
+## Alan Turing Presentation
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/551cb794ebd7ab402dfae576a23e9167b49943ae/Alan_Turing/Alan_Turing_S1.png" width="600" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S2.png" width="600" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S3.png" width="600" />
@@ -115,7 +119,7 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S9.png" width="600" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S10.png" width="600" />
 
-### Maya Angelou Presentation
+## Maya Angelou Presentation
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Maya_Angelou/Maya_Angelou.png" width="600" />
 
 ## 💧 Reflection
