@@ -106,9 +106,9 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 ## 👩🏽‍🏫 Presentation Slides (Gamma) <br>
 ### Alan Turing Presentation
-This project is a fully functional presentation available at the following links: [View Gamma](https://gamma.app/docs/1hzrkll7ycptn8x), [View PDF](https://github.com/redefiningvicky/Thinking-and-Feeling/blob/f20e8a979a6d657b5d86ef9adae674185f5f4e80/Alan_Turing/Alan_Turing.pdf) <p>
+This project is a fully functional presentation available at the following links: [View Gamma](https://alan-turing-presentation-icz9zbd.gamma.site/), [View PDF](https://github.com/redefiningvicky/Thinking-and-Feeling/blob/f20e8a979a6d657b5d86ef9adae674185f5f4e80/Alan_Turing/Alan_Turing.pdf) <p>
 ### Maya Angelou Presentation
-This project is a fully functional presentation available at the following links: [View Gamma](https://gamma.app/docs/yxf3rj0ovan69kn), [View PDF](https://github.com/redefiningvicky/Thinking-and-Feeling/blob/f20e8a979a6d657b5d86ef9adae674185f5f4e80/Maya_Angelou/Maya_Angelou.pdf) <p>
+This project is a fully functional presentation available at the following links: [View Gamma](https://maya-angelou-presentatio-92lvma4.gamma.site/), [View PDF](https://github.com/redefiningvicky/Thinking-and-Feeling/blob/f20e8a979a6d657b5d86ef9adae674185f5f4e80/Maya_Angelou/Maya_Angelou.pdf) <p>
 ## Alan Turing Presentation
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/551cb794ebd7ab402dfae576a23e9167b49943ae/Alan_Turing/Alan_Turing_S1.png" width="600" />
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/ee330a14cae30146c328c9ba7e898412ed472a36/Alan_Turing/Alan_Turing_S2.png" width="600" />
