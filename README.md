@@ -55,16 +55,6 @@ When I think about my folks.
 ChatGPT Work, Gamma <p>
 ## 🔀 Workflow <br>
 ChatGPT Work → Gamma → ChatGPT Work
-## 🪙 Gamma Credit Usage <br>
-<details>
-<summary>Show Usage</summary>
-<p>
-  
-<b>Turing:</b> 113 <br>
-<b>Angelou:</b> ~39 <p>
-
-</details>
-
 ## ⌨️ Presentation Prompts (ChatGPT)
 ### 🤵🏻 Alan Turing Presentation Prompt
 <details>
