@@ -53,6 +53,18 @@ When I think about my folks.
 
 ## 🛠️ Tools <br>
 ChatGPT Work, Gamma <p>
+## 🔀 Workflow <br>
+ChatGPT Work → Gamma → ChatGPT Work
+## 🪙 Gamma Credit Usage <br>
+<details>
+<summary>Show Usage</summary>
+<p>
+  
+<b>Turing:</b> 113 <br>
+<b>Angelou:</b> ~39 <p>
+
+</details>
+
 ## ⌨️ Presentation Prompts (ChatGPT)
 ### 🤵🏻 Alan Turing Presentation Prompt
 <details>
@@ -91,16 +103,6 @@ Reflect the tone, perspective, and expressive qualities of Angelou’s poem. Use
 
 ### Turing Meets Angelou Chart (ChatGPT)
 <img src="https://github.com/redefiningvicky/Thinking-and-Feeling/blob/c3aabe838f660d6eec5d353641bfee83de5920ec/Turing_Meets_Angelou/Turing_Meets_Angelou_Chart.png" width="900" />
-
-## 🪙 Gamma Credit Usage <br>
-<details>
-<summary>Show Usage</summary>
-<p>
-  
-<b>Turing:</b> 113 <br>
-<b>Angelou:</b> ~39 <p>
-
-</details>
 
 ## 👩🏽‍🏫 Presentation Slides (Gamma) <br>
 ### Alan Turing Presentation
