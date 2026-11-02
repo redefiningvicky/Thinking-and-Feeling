@@ -52,9 +52,9 @@ When I think about my folks.
 </details>
 
 ## 🛠️ Tools <br>
-ChatGPT Work, Gamma <p>
+ChatGPT, Gamma <p>
 ## 🔀 Workflow <br>
-ChatGPT Work → Gamma → ChatGPT Work
+ChatGPT → Gamma → ChatGPT
 ## ⌨️ Presentation Prompts (ChatGPT)
 ### 🤵🏻 Alan Turing Presentation Prompt
 <details>
