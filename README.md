@@ -56,6 +56,8 @@ ChatGPT, Gamma <p>
 ## 🔀 Workflow <br>
 ChatGPT → Gamma → ChatGPT <p>
 1 Prompt <p>
+## ⚙️ Model <br>
+ChatGPT 6.1 Sol <p>
 ## ⌨️ Presentation Prompts (ChatGPT)
 ### 🤵🏻 Alan Turing Presentation Prompt
 <details>
