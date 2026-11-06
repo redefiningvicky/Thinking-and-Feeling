@@ -57,7 +57,7 @@ ChatGPT, Gamma <p>
 ChatGPT → Gamma → ChatGPT <p>
 1 Prompt <p>
 ## ⚙️ Model <br>
-ChatGPT 6.1 Sol <p>
+ChatGPT 6.1 Sol (2026) <p>
 ## ⌨️ Presentation Prompts (ChatGPT)
 ### 🤵🏻 Alan Turing Presentation Prompt
 <details>
