@@ -135,7 +135,7 @@
 </p>
 
 <p>
-  <strong>Model:</strong> ChatGPT 6.1 Sol (2026)
+  <strong>Models:</strong> ChatGPT 6.1 Sol (2026)
 </p>
 
 <p><strong>Format:</strong> Image, Presentation Slide</p>
